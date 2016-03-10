@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GestionDate</name>
+    </assembly>
+    <members>
+        <member name="T:mesDates.GestionDate">
+            <summary>
+            Outil de gestion des dates, permet entre autre de récupére les mois courant, précédent et suivant ainsi que l'année courante.
+            On créé l'objet en choisissant un DateTime comme référence pour le jour actuel puis on peut accéder aux différents informations via les Properties.
+            </summary>
+        </member>
+        <member name="P:mesDates.GestionDate.MoisCourant">
+            <summary>
+            Contient le mois en cours à partir de la date donnée au constructeur de l'objet
+            Format : MM
+            </summary>
+        </member>
+        <member name="P:mesDates.GestionDate.MoisPrecedent">
+            <summary>
+            Contient le mois précédent à partir du mois en cours
+            Format : MM
+            </summary>
+        </member>
+        <member name="P:mesDates.GestionDate.MoisSuivant">
+            <summary>
+            Contient le mois suivant à partir du mois en cours
+            Format : MM
+            </summary>
+        </member>
+        <member name="P:mesDates.GestionDate.AnneeCourante">
+            <summary>
+            Contient l'année en cours à partir de la date donnée au constructeur de l'objet
+            Format : AAAA
+            </summary>
+        </member>
+        <member name="P:mesDates.GestionDate.JourCourant">
+            <summary>
+            Contient le jour en cours à partir de la date donnée au constructeur de l'objet
+            Format : JJ
+            </summary>
+        </member>
+        <member name="M:mesDates.GestionDate.#ctor">
+            <summary>
+            Surcharge, permet d'initier la gestion des dates à partir du moment actuel si on ne précise rien
+            </summary>
+        </member>
+        <member name="M:mesDates.GestionDate.#ctor(System.DateTime)">
+            <summary>
+            Constructeur, initie les variables à partir du DateTime en argument considéré comme moment présent
+            </summary>
+            <param name="n"></param>
+        </member>
+        <member name="M:mesDates.GestionDate.getMoisCourant">
+            <summary>
+            Récupére le mois en cours
+            </summary>
+        </member>
+        <member name="M:mesDates.GestionDate.getAnneeCourante">
+            <summary>
+            Récupére l'année actuelle
+            </summary>
+        </member>
+        <member name="M:mesDates.GestionDate.getMoisPrecedent">
+            <summary>
+            Récupére le mois précédent le mois actuel
+            </summary>
+        </member>
+        <member name="M:mesDates.GestionDate.getMoisSuivant">
+            <summary>
+            Récupére le mois suivant le mois actuel
+            </summary>
+        </member>
+        <member name="M:mesDates.GestionDate.getJourCourant">
+            <summary>
+            Recupére le jour actuel du mois actuel
+            </summary>
+        </member>
+    </members>
+</doc>

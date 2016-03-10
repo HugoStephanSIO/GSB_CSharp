@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConnexionSql</name>
+    </assembly>
+    <members>
+        <member name="T:mesBdd.ConnexionSql">
+            <summary>
+            Outil de gestion de l'accés à la base de données de gestion de frais, avec un système de singleton (constructeur privé + variable static volatile) et une fonction d'éxécution de requête
+            </summary>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Constructeur
+            </summary>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.getInstance(System.String,System.String,System.String,System.String)">
+            <summary>
+            Méthode permettant de renvoyer une connexion unique (Singleton)
+            </summary>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.OpenConnection">
+            <summary>
+            Ouvre une connexion à la base de données
+            </summary>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.CloseConnection">
+            <summary>
+            Ferme la connexion
+            </summary>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.reqExec(System.String)">
+            <summary>
+            Exécute une requête passée en argument
+            </summary>
+            <param name="req">Le texte de la requête</param>
+            <returns>L'objet MySqlCommand contenant le résultat de la requête</returns>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.getFichesMois(System.String,System.String)">
+            <summary>
+            Récupére toutes les fiches en bases du mois correspondant à la clef 
+            </summary>
+            <param name="key">La clef format : AAAAMM</param>
+            <param name="etat">Ajoute condition à la requête pour ne récupérer que les fiches frais de cet état</param>
+            <returns>La DataTable contenant les fiches</returns>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.closeFichesMois(System.String)">
+            <summary>
+            Ferme toutes les fiches du mois key en les mettant en état 'CL'
+            </summary>
+            <param name="key">Mois concerné, format : AAAAMM</param>
+        </member>
+        <member name="M:mesBdd.ConnexionSql.fichesMoisToVA(System.String)">
+            <summary>
+            Passe toutes les fiches du mois key en état 'VA' validation attente paiement
+            </summary>
+            <param name="key">Mois concerné, format : AAAAMM</param>
+        </member>
+    </members>
+</doc>

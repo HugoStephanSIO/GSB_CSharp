@@ -1,0 +1,6 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\GestionDate\bin\Debug\GestionDate.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\GestionDate\bin\Debug\GestionDate.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\GestionDate\obj\Debug\GestionDate.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\GestionDate\obj\Debug\GestionDate.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\GestionDate\bin\Debug\GestionDate.XML
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\GestionDate\obj\Debug\GestionDate.csprojResolveAssemblyReference.cache

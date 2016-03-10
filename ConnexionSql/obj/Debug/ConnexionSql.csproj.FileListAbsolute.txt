@@ -1,0 +1,7 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\ConnexionSql\bin\Debug\ConnexionSql.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\ConnexionSql\bin\Debug\ConnexionSql.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\ConnexionSql\bin\Debug\MySql.Data.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\ConnexionSql\obj\Debug\ConnexionSql.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\ConnexionSql\obj\Debug\ConnexionSql.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\ConnexionSql\obj\Debug\ConnexionSql.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\ConnexionSql\bin\Debug\ConnexionSql.XML

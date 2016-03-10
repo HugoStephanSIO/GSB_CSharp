@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AutoGestionEtatFiche</name>
+    </assembly>
+    <members>
+        <member name="T:AutoGestionEtatFiche.AutoGestionEtatFiche">
+            <summary>
+            Classe service, l'application tourne en arrière plan avec un timer défini pour vérifier toutes les 24 h l'état des fiches de frais et de le mettre à jour si besoin est.
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.#ctor">
+            <summary>
+            Constructeur : initialise un journal d'événements pour les logs, vérifie une première fois l'état des frais, lance le timer
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.OnStart(System.String[])">
+            <summary>
+            Méthode appelée au démarrage de l'application, affiche un message confirmant le démarrage
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.OnStop">
+            <summary>
+            Méthode appelée à la fermeture de l'application, ferme la connexion à la BDD et affiche un message confirmant l'arrêt
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.verifierLesFiches(System.Object,System.EventArgs)">
+            <summary>
+            Vérifie que les fiches de frais sont à jours.
+            </summary>
+            <param name="myObject"></param>
+            <param name="myEventArgs"></param>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.getFichesCR">
+            <summary>
+            Vérifie si il y a des fiches du mois passé qui ne sont pas fermées (état 'CR')
+            </summary>
+            <returns>true ou false selon s'il existe des fiches du mois passé encore en état 'CR' ou non</returns>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.getFichesCL">
+            <summary>
+            Vérifie si il y a des fiches du mois passé qui ne sont pas mise en paiement (état 'CL')
+            </summary>
+            <returns>true ou false selon s'il existe des fiches du mois passé encore en état 'CL' ou non</returns>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.closeFichesCR">
+            <summary>
+            Ferme toutes les fiches du mois passé qui étaient en état 'CR', en les mettant en état 'CL'
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.mettreFichesEnPaiement">
+            <summary>
+            Passe toutes les fiches du mois passé en état validée et mises en paiement (état 'VA')
+            </summary>
+        </member>
+        <member name="F:AutoGestionEtatFiche.AutoGestionEtatFiche.components">
+            <summary> 
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:AutoGestionEtatFiche.AutoGestionEtatFiche.InitializeComponent">
+            <summary> 
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas 
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.Program.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.ProjectInstaller.#ctor">
+            <summary>
+            Installateur par défaut pour le service AutoGestionEtatFiche.exe
+            Commandes à utiliser depuis la console développement Visual Studio lancée en admin :
+            >> cd /Projets_Home/AutoGestionEtatFiches/bin/debug
+            >> installutil.exe AutoGestionEtatFiches.exe
+            </summary>
+        </member>
+        <member name="F:AutoGestionEtatFiche.ProjectInstaller.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:AutoGestionEtatFiche.ProjectInstaller.Dispose(System.Boolean)">
+            <summary> 
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:AutoGestionEtatFiche.ProjectInstaller.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+    </members>
+</doc>

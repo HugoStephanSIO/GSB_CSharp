@@ -1,0 +1,282 @@
+﻿Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Le service AutoGestionEtatFiche a été installé avec succès.
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Validation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Désinstallation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Suppression de la source EventLog AutoGestionEtatFiche.
+Le service AutoGestionEtatFiche est en cours de suppression du système...
+Le service AutoGestionEtatFiche a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Le service AutoGestionEtatFiche a été installé avec succès.
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Validation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Désinstallation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Suppression de la source EventLog AutoGestionEtatFiche.
+Le service AutoGestionEtatFiche est en cours de suppression du système...
+Le service AutoGestionEtatFiche a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Le service AutoGestionEtatFiche a été installé avec succès.
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Validation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Désinstallation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Suppression de la source EventLog AutoGestionEtatFiche.
+Le service AutoGestionEtatFiche est en cours de suppression du système...
+Le service AutoGestionEtatFiche a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Le service AutoGestionEtatFiche a été installé avec succès.
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Validation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Désinstallation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Suppression de la source EventLog AutoGestionEtatFiche.
+Le service AutoGestionEtatFiche est en cours de suppression du système...
+Le service AutoGestionEtatFiche a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Désinstallation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Suppression de la source EventLog AutoGestionEtatFiche.
+Avertissement : la source AutoGestionEtatFiche n'est pas inscrite sur l'ordinateur local.
+Le service AutoGestionEtatFiche est en cours de suppression du système...
+Le service AutoGestionEtatFiche a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Le service AutoGestionEtatFiche a été installé avec succès.
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Validation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Désinstallation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Suppression de la source EventLog AutoGestionEtatFiche.
+Le service AutoGestionEtatFiche est en cours de suppression du système...
+Le service AutoGestionEtatFiche a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Le service AutoGestionEtatFiche a été installé avec succès.
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Validation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Installation du service AutoGestionEtatFiche en cours...
+Création d'une source EventLog AutoGestionEtatFiche dans le journal Application...
+Restauration de l'assembly 'C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.InstallLog
+   assemblypath = C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\AutoGestionEtatFiche\bin\Debug\AutoGestionEtatFiche.exe
+Restauration de l'état précédent du journal des événements pour la source AutoGestionEtatFiche.

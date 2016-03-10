@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GSBTravail3</name>
+    </assembly>
+    <members>
+        <member name="T:GSBTravail3.Form1">
+            <summary>
+            Gère l'interface graphique de gestion de l'état des fiches de frais
+            </summary>
+        </member>
+        <member name="M:GSBTravail3.Form1.#ctor">
+            <summary>
+            Constructeur : initialise les composants graphique, la connexion, récupére les fiches frais et vérifie leur état.
+            </summary>
+        </member>
+        <member name="M:GSBTravail3.Form1.getLesDonnees">
+            <summary>
+            Recupére les fiches de frais du mois précédent et affichage dans le dataGridView
+            </summary>
+        </member>
+        <member name="M:GSBTravail3.Form1.verifierLesFiches">
+            <summary>
+            Vérifie si les fiches de frais du mois précédent sont bien à jour (dans le bonne état)
+            </summary>
+            <returns>true ou false selon si les fiches sont dans le bon état</returns>
+        </member>
+        <member name="M:GSBTravail3.Form1.majButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Fonction événementielle : lorsque l'utilisateur clique sur le bouton, on met les fiches de frais à jour
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GSBTravail3.Form1.displayMessage(System.String,System.Boolean)">
+            <summary>
+            Fonction utilitaire : affiche un message dans le label de la fenêtre
+            </summary>
+            <param name="text"></param>
+            <param name="error"></param>
+        </member>
+        <member name="F:GSBTravail3.Form1.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:GSBTravail3.Form1.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:GSBTravail3.Form1.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="M:GSBTravail3.Program.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+        <member name="M:GSBTravail3.Program.showError(System.String)">
+            <summary>
+            Affiche une erreur dans une messagebox personnalisée
+            </summary>
+            <param name="e">Le texte de l'erreur à afficher</param>
+        </member>
+        <member name="T:GSBTravail3.Properties.Resources">
+            <summary>
+              Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+            </summary>
+        </member>
+        <member name="P:GSBTravail3.Properties.Resources.ResourceManager">
+            <summary>
+              Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+            </summary>
+        </member>
+        <member name="P:GSBTravail3.Properties.Resources.Culture">
+            <summary>
+              Remplace la propriété CurrentUICulture du thread actuel pour toutes
+              les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+            </summary>
+        </member>
+    </members>
+</doc>
