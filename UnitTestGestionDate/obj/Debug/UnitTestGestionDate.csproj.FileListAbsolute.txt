@@ -1,0 +1,10 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\bin\Debug\UnitTestGestionDate.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\bin\Debug\UnitTestGestionDate.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\bin\Debug\GestionDate.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\bin\Debug\GestionDate.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\bin\Debug\GestionDate.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\obj\Debug\UnitTestGestionDate.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\obj\Debug\UnitTestGestionDate.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\GSBTravail3\UnitTestGestionDate\obj\Debug\UnitTestGestionDate.pdb
